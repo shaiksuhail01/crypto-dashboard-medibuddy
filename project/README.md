@@ -15,10 +15,8 @@ A modern, production-ready cryptocurrency dashboard built with React, TypeScript
 - 🚀 **Top Gainers**: Best performing coins in the last 24 hours
 - 🚨 **Top Losers**: Worst performing coins in the last 24 hours
 - ✨ **New Coins**: Recently added cryptocurrencies
-- 🔓 **Token Unlocks**: Upcoming token unlock events
 - 👀 **Most Viewed**: Popular cryptocurrencies by user interest
 - 🥤 **Highest Volume**: Cryptocurrencies with highest trading volume
-- 🎢 **Price Change from ATH**: Performance relative to all-time highs
 
 ### Categories
 - 📊 **Market Categories**: Cryptocurrency categories with market data
